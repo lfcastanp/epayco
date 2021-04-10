@@ -1,0 +1,10 @@
+.menu-app {
+  background: #3A3A3A;
+  width: 277px;
+  height: 100vh;
+  position: relative;
+  align-content: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}

@@ -1,0 +1,9 @@
+const constantsAPP = {
+    STATUS_LOADING: "LOADING",
+    STATUS_NOT_LOADED: "NOT_LOADED",
+    STATUS_NOT_LOGGED_IN: "NOT_LOGGED_IN",
+    STATUS_LOADED: "STATUS_LOADED",
+    STATUS_LOGGED_IN: "LOGGED_IN"
+}
+
+export default constantsAPP

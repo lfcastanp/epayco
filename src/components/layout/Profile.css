@@ -1,0 +1,25 @@
+.profile-menu {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.person-profile-info {
+  color: #fff;
+  align-items: baseline;
+  font-size: 26px;
+  margin-top: 10px;
+  background: #222222;
+  border-radius: 10px;
+  padding: 2px;
+  border: 1px solid black;
+}
+.name-user-profile {
+  font-size: 25px;
+  text-align: left;
+}
+.imgLogo{
+  width: 170px;
+}
